@@ -21,8 +21,8 @@ class Pir(Thread):
             if GPIO.input(pirPin) == 1:
                 self.value = 'on'
                 GPIO.output(LED, GPIO.HIGH)
-                print("on")
+                #print("motion detected")
             else:
                 self.value = 'off'
                 GPIO.output(LED, GPIO.LOW)
-                print("off")
+                #print("off")

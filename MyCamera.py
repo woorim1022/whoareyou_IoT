@@ -29,7 +29,7 @@ class MyCamera:
     @classmethod
     def streaming(c):
         with picamera.PiCamera() as camera:
-            camera.resolution = (480, 320)
+            camera.resolution = (960, 540)
             camera.hflip = True
             camera.vflip = True
 

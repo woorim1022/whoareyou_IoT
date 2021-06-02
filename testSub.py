@@ -21,11 +21,10 @@ def on_message(client, userdata, msg):
     #now = datetime.datetime.now()
     #filename = '%s.jpg' % now
     #filename = "".join(i for i in filename if i not in "\/:*?<>|")
-    print(type(msg.payload))
     data = ast.literal_eval(msg.payload.decode())
     frame = data[0]
     filename = data[1]
-    f = open(filename, "wb");
+    f = open("pictures\\" + filename, "wb");
     f.write(frame);
     f.close();
     #im = Image.open(filename);
