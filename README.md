@@ -4,13 +4,21 @@
 
 
 
-#### Activity Diagram
+### Activity Diagram
+----
+
+
 
 <img width="100%" src="https://user-images.githubusercontent.com/43725568/133360464-71674bad-0ac7-454a-ae27-769aea1f745d.png"/>
 
 
 
-#### 모델
+
+
+
+### 모델
+----
+
 
 
 <img width="110%" src="https://user-images.githubusercontent.com/43725568/133360789-55a0e6b8-3eff-4d3e-bb6a-52f1efbe6a9b.png"/>
