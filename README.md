@@ -6,10 +6,10 @@
 
 #### Activity Diagram
 
-![후아유액티비티다이어그램](C:\Users\USER\Desktop\멀캠\project3\whoareyou_IoT\md_images\후아유액티비티다이어그램.png)
+https://github.com/woorim1022/whoareyou_IoT/issues/1#issue-996592487
 
 
 
 #### 모델
 
-![후아유모델사진](C:\Users\USER\Desktop\멀캠\project3\whoareyou_IoT\md_images\후아유모델사진.png)
+https://github.com/woorim1022/whoareyou_IoT/issues/1#issue-996592487
