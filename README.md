@@ -5,8 +5,7 @@
 
 
 #### Activity Diagram
-
-https://github.com/woorim1022/whoareyou_IoT/issues/1#issue-996592487
+![후아유액티비티다이어그램](https://user-images.githubusercontent.com/43725568/133360464-71674bad-0ac7-454a-ae27-769aea1f745d.png)
 
 
 
